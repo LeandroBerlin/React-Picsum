@@ -4,7 +4,7 @@
   "email": "leandro.frigerio@devugees.org",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leodvg.github.io/React-Picsum/",
+  "homepage": "https://leandroberlin.github.io/React-Picsum/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
