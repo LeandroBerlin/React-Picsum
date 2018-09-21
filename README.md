@@ -1,6 +1,6 @@
 Excercise with React and Picsum API
 
-https://leodvg.github.io/React-Picsum/
+https://leandroberlin.github.io/React-Picsum/
 
 
 
